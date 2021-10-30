@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @johndocs
-- 👀 I’m interested in digital transformation.
+- 👀 I’m interested in computer programming.
 - 🌱 I’m currently learning react hooks.
-- 💞️ I’m looking to collaborate on DX workflows.
-- 📫 How to reach me. john@docs2info.com
 
 <!---
 johndocs/johndocs is a special repository because its `README.md` (this file) appears on your GitHub profile.
